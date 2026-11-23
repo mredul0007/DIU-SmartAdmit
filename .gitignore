@@ -1,0 +1,17 @@
+# Secrets
+.env
+**/.env
+
+# Node
+node_modules/
+**/node_modules/
+npm-debug.log*
+
+# Firebase cache
+.firebase/
+**/.firebase/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
