@@ -1,4 +1,4 @@
-# DIU SmartAdmit v2.0
+# DIU SmartAdmit
 ## AI Powered University Admission & Career Guidance System
 
 ---
